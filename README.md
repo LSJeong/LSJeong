@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=SPRING BOOT&logoColor=white"/>
 <br/>
 </p>
 <br/>
@@ -36,6 +37,8 @@ Here are some ideas to get you started:
 ### :bulb: TOOL :bulb:
 <p>
   <img src="https://img.shields.io/badge/INTELLIJ IDEA-000000?style=for-the-badge&logo=INTELLIJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=for-the-badge&logo=ECLIPSE IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <br/>
 </p>
 <br/>
