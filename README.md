@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=HELLO)
 
 Welcome 👋
+
+
+
+⚡기술스택 </br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
